@@ -1,0 +1,31 @@
+.menuImg {
+    margin: 5px;
+    float: left;
+    margin-right: 12px;
+    width: 52px;
+    height: 52px;
+}
+.menuDiv {
+    display: flex;
+}
+.menuIco {
+    width: 200px;
+}
+.h229 {
+    /* margin: 2px; */
+    width: 200px;
+}
+.userImage{
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
+/* Menu.Item{
+    line-height: '64px'
+} */
+.logoImage{
+    width: 240px;
+    height: 130px;
+    margin-right: 110px;
+    display: block;
+}

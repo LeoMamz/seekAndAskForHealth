@@ -1,0 +1,44 @@
+.bookset {
+    text-align: left;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .bookWrapper1 {
+    display: inline-block;
+    /* width: 440px; */
+    width: 332px;
+    height: 180px;
+    font-size: 10px;
+    text-align: left;
+  }
+  
+  .bookWrapper2 {
+    display: flex;
+    height: 100%;
+  }
+  
+  .bookimage {
+    float: left;
+    width: 120px;
+    border: 2px;
+    border-color: #303030;
+  }
+  
+  .bookimage img {
+    width: 120px;
+    height: 180px;
+  }
+  
+  .bookinfo {
+    width: 212px;
+  
+  }
+  
+  .bookinfo .infbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    margin-left: 20px;
+  }
